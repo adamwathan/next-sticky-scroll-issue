@@ -1,0 +1,60 @@
+import Image from "next/image";
+
+export default function Other() {
+  return (
+    <div>
+      <h1 className="text-4xl font-bold">Top</h1>
+      <ul className="space-y-6">
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+        <li>Other</li>
+      </ul>
+    </div>
+  );
+}
