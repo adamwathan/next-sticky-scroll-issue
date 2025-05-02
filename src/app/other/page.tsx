@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Other() {
   return (
     <div>
